@@ -4,8 +4,8 @@ const profile = {
             name : 'Paweena Thongyan',
             role : 'Student',
             show : true,
-            Articles : 0,
-            Followers : 565,
+            Articles : 2,
+            Followers : 663,
             Ratings : 7,
             show : true,
             img : "./images/cat.png"
