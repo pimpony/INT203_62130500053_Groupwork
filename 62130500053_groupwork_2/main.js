@@ -6,7 +6,7 @@ const profile = {
             show : true,
             Articles : 0,
             Followers : 565,
-            Ratings : 3,
+            Ratings : 7,
             show : true,
             img : "./images/cat.png"
         }
